@@ -1,2 +1,1 @@
-# Fresh-WP-Install-with-Understrap
-# WP-BOOTSTRAP-SASS-ES6-ACF-CPTUI
+# Fresh WP Install with 'BOOTSTRAP 4, SASS, ES6/BABEL, ACF, CPTUI
