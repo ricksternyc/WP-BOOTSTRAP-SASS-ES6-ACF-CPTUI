@@ -11,7 +11,7 @@ Understrap default 'custom-js.js' does not work with Uglify when writing ES6 Syn
 
 cd to `/wp-content` directory  
 
-`>>gulp watch`  
+Type `gulp watch`  
 
 Write your JS to `src/js/es6.js`  
 
