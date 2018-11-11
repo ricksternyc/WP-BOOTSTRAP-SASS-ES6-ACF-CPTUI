@@ -5,9 +5,9 @@ Ready to go Wordpress installation including Understrap (starter theme), Bootstr
 
 Understrap default 'custom-js.js' does not work with Uglify when writing ES6 Syntax. This is a quick setup to begin writing the latest Vanilla JavaScript syntax such as fat arrow functions`()=>{}`, Promises (async/await), let / const variables, array methods (map, filter, reduce), rest operators and much more.
 
-#Clone Directory
+Clone Directory
 
-#Install Worpress
+Install Worpress
 
 cd to `/wp-content` directory  
 
